@@ -1,0 +1,5 @@
+Forwards - 'W'
+Backwards - 'S'
+Left - 'A'
+Right - 'D'
+Jump - 'SPACEBAR'
